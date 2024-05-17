@@ -1,7 +1,9 @@
 #include <iostream>
 #include <cctype>  
 #include <string>  
+
 using namespace std;
+
 void hitungKarakter(const string& kalimat) {
     int jumlahVokal = 0;
     int jumlahKonsonan = 0;
